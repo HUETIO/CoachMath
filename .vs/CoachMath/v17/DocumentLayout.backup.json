@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Devel\\Desktop\\CoachMath\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Devel\\Desktop\\CoachMath\\app_streamlit.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_streamlit.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Devel\\Desktop\\CoachMath\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Devel\\Desktop\\CoachMath\\guia_ad7ada5b.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:guia_ad7ada5b.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Devel\\Desktop\\CoachMath\\app_streamlit.py||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_streamlit.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Devel\\Desktop\\CoachMath\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,33 +50,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Devel\\Desktop\\CoachMath\\README.md",
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\Devel\\Desktop\\CoachMath\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-08-28T18:35:18.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "app_streamlit.py",
               "DocumentMoniker": "C:\\Users\\Devel\\Desktop\\CoachMath\\app_streamlit.py",
               "RelativeDocumentMoniker": "app_streamlit.py",
               "ToolTip": "C:\\Users\\Devel\\Desktop\\CoachMath\\app_streamlit.py",
               "RelativeToolTip": "app_streamlit.py",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAswEIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-08-28T17:39:55.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "guia_0d84e9ab.md",
               "DocumentMoniker": "C:\\Users\\Devel\\Desktop\\CoachMath\\guia_0d84e9ab.md",
               "RelativeDocumentMoniker": "guia_0d84e9ab.md",
@@ -84,12 +84,11 @@
               "RelativeToolTip": "guia_0d84e9ab.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-08-28T18:27:10.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T18:27:10.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "guia_ad7ada5b.md",
               "DocumentMoniker": "C:\\Users\\Devel\\Desktop\\CoachMath\\guia_ad7ada5b.md",
               "RelativeDocumentMoniker": "guia_ad7ada5b.md",
@@ -97,12 +96,11 @@
               "RelativeToolTip": "guia_ad7ada5b.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-08-28T18:27:09.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T18:27:09.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "quickstart_rag_gemini.py",
               "DocumentMoniker": "C:\\Users\\Devel\\Desktop\\CoachMath\\quickstart_rag_gemini.py",
               "RelativeDocumentMoniker": "quickstart_rag_gemini.py",
@@ -110,8 +108,7 @@
               "RelativeToolTip": "quickstart_rag_gemini.py",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-28T17:39:13.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T17:39:13.574Z"
             },
             {
               "$type": "Document",
@@ -123,8 +120,7 @@
               "RelativeToolTip": "data\\matematicas.pdf",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-28T18:27:06.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T18:27:06.186Z"
             },
             {
               "$type": "Document",
@@ -136,8 +132,7 @@
               "RelativeToolTip": ".env",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-28T17:37:47.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T17:37:47.437Z"
             }
           ]
         }
