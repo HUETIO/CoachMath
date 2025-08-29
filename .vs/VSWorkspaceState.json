@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\data",
+    "\\vectorstore"
   ],
   "SelectedNode": "\\app_streamlit.py",
   "PreviewInSolutionExplorer": false
